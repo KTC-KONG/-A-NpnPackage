@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "[ Test Skill ]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KTC-KONG",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTC-KONG/-A-NpnPackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KTC-KONG/-A-NpnPackage/issues"
+  },
+  "homepage": "https://github.com/KTC-KONG/-A-NpnPackage#readme"
+}
